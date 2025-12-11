@@ -1,0 +1,20 @@
+city,rent_1br_city_center_usd,utilities_basic_usd,internet_60mbps_usd,transport_monthly_pass_usd,food_estimate_usd,source,monthly_cost,country,visa_free,mobile_mbps,fixed_mbps,avg_internet_mbps,region,visa_score,cost_score,speed_score,nomad_score
+Zurich,2765.17,,58.44,108.63,,https://www.numbeo.com/cost-of-living/in/Zurich?displayCurrency=USD,2932.2400000000002,Switzerland,True,131.59,245.55,188.57,Europe,100,34.866829426093304,40.03694345952143,52.959661981269825
+Paris,1627.04,,36.6,103.18,,https://www.numbeo.com/cost-of-living/in/Paris?displayCurrency=USD,1766.82,France,True,130.64,307.96,219.29999999999998,Europe,100,67.08932506449091,46.56149812097921,68.13225436813909
+Berlin,1389.34,,50.52,68.55,,https://www.numbeo.com/cost-of-living/in/Berlin?displayCurrency=USD,1508.4099999999999,Germany,True,70.54,98.33,84.435,Europe,100,74.23405837773275,17.927132210874966,60.96811962489934
+Sydney,2195.95,,52.58,142.69,,https://www.numbeo.com/cost-of-living/in/Sydney?displayCurrency=USD,2391.22,Australia,False,122.2,95.29,108.745,Oceania,50,49.82539765925034,23.088600607231577,40.511169276231186
+Amsterdam,2498.78,,52.13,116.19,,https://www.numbeo.com/cost-of-living/in/Amsterdam?displayCurrency=USD,2667.1000000000004,Netherlands,True,163.09,211.33,187.21,Europe,100,42.19763934317447,39.74818998280219,55.79092223125056
+Seoul,921.57,,20.47,45.79,,https://www.numbeo.com/cost-of-living/in/Seoul?displayCurrency=USD,987.83,South Korea,True,224.54,233.15,228.845,Asia,100,88.62748459269132,48.58808042633601,77.45682198629413
+Dubai,2472.32,,96.19,89.86,,https://www.numbeo.com/cost-of-living/in/Dubai?displayCurrency=USD,2658.3700000000003,United Arab Emirates,True,614.42,327.56,470.99,Asia,100,42.43901360045786,100.0,76.97560544018314
+Toronto,1717.38,,53.25,111.71,,https://www.numbeo.com/cost-of-living/in/Toronto?displayCurrency=USD,1882.3400000000001,Canada,True,86.23,235.44,160.835,Americas,100,63.89533260156105,34.14828340304465,62.510032231690055
+Tokyo,1052.52,,32.69,72.19,,https://www.numbeo.com/cost-of-living/in/Tokyo?displayCurrency=USD,1157.4,Japan,True,60.37,214.9,137.635,Asia,100,83.93907304543532,29.222488800186834,68.80350029823953
+London,3054.5,,42.4,241.09,,https://www.numbeo.com/cost-of-living/in/London?displayCurrency=USD,3337.99,United Kingdom,False,68.55,143.83,106.19,Europe,50,23.648317983626377,22.54612624471857,29.85047137910205
+New York,3993.75,,66.55,133.0,,https://www.numbeo.com/cost-of-living/in/New-York?displayCurrency=USD,4193.3,United States,True,154.48,285.59,220.03499999999997,Americas,100,0.0,46.71755238964733,41.351143336376566
+Hong Kong,2314.22,,22.18,64.24,,https://www.numbeo.com/cost-of-living/in/Hong-Kong?displayCurrency=USD,2400.64,Hong Kong,True,,,,Asia,100,49.56494571152874,,
+Barcelona,1578.09,,37.18,29.05,,https://www.numbeo.com/cost-of-living/in/Barcelona?displayCurrency=USD,1644.32,Spain,True,70.47,240.84,155.655,Europe,100,70.47630633794057,33.048472366716915,64.75748786352715
+Johannesburg,448.19,,41.35,86.97,,https://www.numbeo.com/cost-of-living/in/Johannesburg?displayCurrency=USD,576.51,South Africa,True,66.15,48.26,57.205,Africa,100,100.0,12.145693114503493,69.25099259007622
+Singapore,3102.52,,34.42,92.64,,https://www.numbeo.com/cost-of-living/in/Singapore?displayCurrency=USD,3229.58,Singapore,True,164.75,394.3,279.525,Asia,100,26.645727288562515,59.34839380878574,56.430228748500014
+Prague,1215.05,,23.6,26.2,,https://www.numbeo.com/cost-of-living/in/Prague?displayCurrency=USD,1264.85,Czech Republic,True,,,,Europe,100,80.96820661415234,,
+Lisbon,1638.47,,39.28,46.48,,https://www.numbeo.com/cost-of-living/in/Lisbon?displayCurrency=USD,1724.23,Portugal,True,134.52,219.75,177.135,Europe,100,68.2668885945825,37.609078749018025,65.46993299998931
+Bangkok,676.11,,16.8,36.97,,https://www.numbeo.com/cost-of-living/in/Bangkok?displayCurrency=USD,729.88,Thailand,True,124.33,262.42,193.375,Asia,100,95.75949944564103,41.05713497101849,77.67379701811288
+Mexico City,1090.23,,32.46,19.54,,https://www.numbeo.com/cost-of-living/in/Mexico-City?displayCurrency=USD,1142.23,Mexico,True,45.21,90.59,67.9,Americas,100,84.35850574680865,14.416441962674368,63.78915698565949

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "Plan 20251010-164849",
+    "name": "Plan 20251010-164849",
+    "created_at": "2025-10-10 16:48:49",
+    "filters": {
+      "budget": "5000",
+      "duration_weeks": "2",
+      "depart_month": "April",
+      "region": "Global",
+      "visa_free_only": false,
+      "min_downlink": "25"
+    }
+  }
+]
