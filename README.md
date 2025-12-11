@@ -285,4 +285,5 @@ This arrangement avoids long blocking scrapes for graders and keeps everything i
 
 ## 11) AI Appendix
 
-This project was developed with the assistance of artificial intelligence tools, such as ChatGPT, Copilot and Gemini, which were used to enhance productivity and code quality throughout the development process. All AI-generated content was reviewed, tested, and validated manually by the team to ensure correctness, consistency, and compliance with academic integrity guidelines.
+
+This project was developed with the assistance of artificial intelligence tools, such as ChatGPT, Copilot and Gemini, which were used to enhance productivity and code quality throughout the development process. All AI-generated content was reviewed, tested, and validated manually by the team to ensure correctness and consistency.
